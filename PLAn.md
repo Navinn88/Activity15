@@ -1,12 +1,12 @@
 # Plan for Activity 14
 
 ## Project Goal(s)
-- Briefly state what analysis/output you want.
+- compare baby names, army e1-e9 by sex, box optimzation to get greates volume
 
 ## Needs
-- Data needed
-- Packages/software
-- Repo structure (files/folders)
+- Usarmed forces data dset, baby names built int r
+- ggplot2, tidyverse
+
 
 ## Steps
 - Step 1: Set up repo and QMD
