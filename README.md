@@ -1,13 +1,13 @@
 # Activity 14 – [Short Project Title]
 
 ## What this project is about
-Short 2–3 sentence description.
+this is about act 14
 
 ## Data source
-- Describe where the data came from (file in repo, or URL).
+- usa armed forces data set and built in R libraries
 
 ## Current plan
-- Brief sentence or bullet list of what you’re doing with the data.
+- comparing dist of e1-e9 offficers by sex, baby names over time and box optimization problem
 
 ## Repo organization
 - `activity14.qmd` – Quarto document
@@ -16,5 +16,5 @@ Short 2–3 sentence description.
 - `data/` – Data files (if any)
 
 ## Contact
-- Your name and email / GitHub handle
+- Harvey Barnes Harvey.a.barnes@gmail.com / Navinn88
 
