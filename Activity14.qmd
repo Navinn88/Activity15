@@ -13,7 +13,7 @@ execute:
 
 ## Armed Forces: Data Wrangling
 
-In this Section I wrangle the US armed forces data into a data frame where each row represents a single service member including their branch, sex and rank
+In this Section I wrangle the US armed forces data into a data frame where each row represents a single service member including their branch, sex and rank. Unlocking new insights!
 
 ```{r}
 #| label: armed-wrangling
@@ -213,3 +213,4 @@ From the peak of the curve, we find that the maximum volume occurs when the cut-
 ## Reflection:
 
 I have learned how to properly investigate data using R. So far we have learned an abundance of topics from functions, to ggplot2. Everything we have learned has been extermeley useful and has real world applications. The immense amount of time spent on data manipulation in order to clean and reformat data has been a huge addition to my skill set. GGplot2 is also a valuable asset to create plots that can portray rich complicated data in order to add proof to my claims. The activities involving wrangling and drawing conclusions from data has been incredibly helpful to expand my r tool kit.
+
